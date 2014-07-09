@@ -1,4 +1,5 @@
 jethro
 ======
 
-Jethro The GOD
+jethro is now accepting all pull requests
+dont fuck it up
